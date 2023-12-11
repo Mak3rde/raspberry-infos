@@ -1,9 +1,9 @@
 ######################################################################################################################################################
 ######################################################################################################################################################
 
-Since tehthe website seems to be offline or not reachable more often this is a copy of the eleduino online shop.
+Since the website seems to be offline or unreachable more often, this is a copy of the eleduino online shop.
 
-DIRECTLY COPIED from : http://www.eleduino.com/7-0-Inch-1024x600-Pixel-IPS-Hdmi-Input-Capacitive-Touch-Screen-Support-Raspberry-pi-Banana-Pi-Pro-Be-p10533.html
+DIRECTLY COPIED from: http://www.eleduino.com/7-0-Inch-1024x600-Pixel-IPS-Hdmi-Input-Capacitive-Touch-Screen-Support-Raspberry-pi-Banana-Pi-Pro-Be-p10533.html
 
 ######################################################################################################################################################
 ######################################################################################################################################################
